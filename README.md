@@ -1,10 +1,13 @@
-# AmazonCustomerFeedbackAnalysis
-Dataset source: https://nijianmo.github.io/amazon/index.html
-
-Report: [Report.pdf](Report.pdf)
-
+# Amazon customers' feedback analysis
 
 This NLP project is conducted as a part of Intelligent Systems course.
+
+Dataset source: https://nijianmo.github.io/amazon/index.html
+
+Project report: [Report.pdf](Report.pdf)
+
+
+
 
 SCOPE OF THE PROJECT:
 As a part of NLP project we want to conduct analysis of Amazon Gift cards reviews, to understand how the customer react to them.  Analysis of reviews is important tool toidentify insights about customers to improve the product or service quality. With this investigation we want to identify the most popular occasions of the gift card purchase, emotions related to the gift, found out products people buy with such gifts, and expandoverall knowledge about the Amazon gift cards to be even better suited for its currentand potential customers. Also we believe that, having conducted such investigation Amazon authorities couldidentify how the customer perceives the gift cards, assess the quality of the purchase pro-cess, in which period should the Gift Cards be advertised to increase purchased amount.
