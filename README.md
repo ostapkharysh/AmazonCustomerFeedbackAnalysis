@@ -1,7 +1,7 @@
 # AmazonCustomerFeedbackAnalysis
 Dataset source: https://nijianmo.github.io/amazon/index.html
 
-Report: Report.pdf
+Report: [Report.pdf](Report.pdf)
 
 
 This NLP project is conducted as a part of Intelligent Systems course.
@@ -23,4 +23,4 @@ The code is divided in several phases:
 
 The results published in the Report.pdf could be obtain by running the code that belongs to the phase you one is interested in.
 
-IMPORTANT: If you are interested in seperate parts of the project, please, make sure to run the PHASE 1: PREPROCESSING.
+IMPORTANT: If you are interested in separate parts of the project, please, make sure to run the PHASE 1: PREPROCESSING.
