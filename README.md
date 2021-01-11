@@ -8,7 +8,7 @@ As a part of NLP project we want to conduct analysis of Amazon Gift cards review
 Also, a great insight would be to understand the overall satisfaction level of Gift Cards. For this project we will use R library and apply such techniques: 
 * Association analysis
 * N-gram analysis
-* Sentimental analysis
+* Sentiment analysis
 
 
 ## Repository content:
